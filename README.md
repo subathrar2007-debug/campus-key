@@ -30,7 +30,7 @@ Note: The ID card shown in screenshots is a dummy/sample (Sunrise College) creat
 - 🏆 1st Prize Winning Team
 
 ## 🔗 Links
-- Demo:- Demo: Photos available in this repo - team-photo.jpeg & campus-key-demo.jpeg (Video coming soon)
+- Demo:Photos available in this repo - team-photo.jpeg & campus-key-demo.jpeg (Video coming soon)
 
 ---
 ⭐ If you like this idea, give it a star!
