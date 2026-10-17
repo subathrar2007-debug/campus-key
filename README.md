@@ -13,11 +13,12 @@ Note: The ID card shown in screenshots is a dummy/sample (Sunrise College) creat
 - **Tamper-proof:** Every tap is recorded & auditable.
 
 ## 📸 Project Screenshots
+
 ### Landing Page
-![Landing Page](WhatsApp%20Image%202026-10-09%20at%206.48.13%20PM.jpeg)
+![Landing Page](campus-key-demo.jpeg)
 
 ### Dashboard
-![Dashboard](WhatsApp%20Image%202026-10-09%20at%206.49.25%20PM.jpeg)
+![Dashboard](team-photo.jpeg)
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JS
