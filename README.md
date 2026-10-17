@@ -31,6 +31,8 @@ Note: The ID card shown in screenshots is a dummy/sample (Sunrise College) creat
 
 ## 🔗 Links
 - Demo:Photos available in this repo - team-photo.jpeg & campus-key-demo.jpeg (Video coming soon)
-
+### 🏆 Award & Certificate 
+![Certificate](certificate.jpeg)
+![Prize](prize.jpeg)
 ---
 ⭐ If you like this idea, give it a star!
