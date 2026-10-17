@@ -15,7 +15,7 @@ Note: The ID card shown in screenshots is a dummy/sample (Sunrise College) creat
 ## 📸 Project Screenshots
 
 ### Landing Page
-![Landing Page](landing page.jpeg)
+![Landing Page](landing-page.jpeg)
 
 ### Dashboard
 ![Dashboard](dashboard.jpeg)
