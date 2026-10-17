@@ -18,7 +18,7 @@ Note: The ID card shown in screenshots is a dummy/sample (Sunrise College) creat
 ![Landing Page](landing-page.jpeg)
 
 ### Dashboard
-![Dashboard](dashboard.jpeg)
+![Dashboard](Dashboard.jpeg)
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JS
