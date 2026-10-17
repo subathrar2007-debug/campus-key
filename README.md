@@ -15,10 +15,10 @@ Note: The ID card shown in screenshots is a dummy/sample (Sunrise College) creat
 ## 📸 Project Screenshots
 
 ### Landing Page
-![Landing Page](campus-key-demo.jpeg)
+![Landing Page](landing page.jpeg)
 
 ### Dashboard
-![Dashboard](team-photo.jpeg)
+![Dashboard](dashboard.jpeg)
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JS
